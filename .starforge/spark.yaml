@@ -1,0 +1,10 @@
+intents:
+  - text: |
+      Build a subscription billing service. It must prorate a mid-cycle plan
+      change to the exact day, never double-charge a customer when a webhook is
+      redelivered, and reconcile every invoice against the payment provider
+      before marking it settled.
+    added_at: "2026-09-07T00:00:00Z"
+
+status: "NEW"
+created_at: "2026-09-07T00:00:00Z"
